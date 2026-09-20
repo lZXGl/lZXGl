@@ -12,22 +12,9 @@
 
 ---
 
-### 🖥️ `$ sysinfo --stdout`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  zeyad@linux-terminal:~$ neofetch --stdout                   │
-├──────────────────────────────────────────────────────────────┤
-│  User:        Zeyad Ashraf                                   │
-│  OS:          Ubuntu Linux LTS / Kernel 6.8.0-generic        │
-│  Host:        Custom Homelab & Automation Rig                │
-│  Uptime:      99.9% Production Ready                         │
-│  Shell:       Bash 5.2 / Python 3.12                         │
-│  Focus:       Linux Daemons • System Automation • Monitoring │
-│  Security:    UFW Default-Deny • Zero Secrets In Source      │
-│  Motto:       "Automate the routine. Orchestrate the rest."  │
-╰──────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/metrics.terminal.svg" alt="Terminal Metrics" width="100%" />
+</p>
 
 ---
 
@@ -84,11 +71,7 @@
 
 ---
 
-### 📊 GitHub Activity & Terminal Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/metrics.terminal.svg" alt="Terminal Metrics" width="100%" />
-</p>
+### 📊 GitHub Activity & Streak
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/metrics.plugin.topics.icons.svg" alt="Technology Topics" width="100%" />
