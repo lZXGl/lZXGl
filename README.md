@@ -1,58 +1,92 @@
-# Hi there, I'm lZXGl 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=lZXGl@linux-terminal&fontSize=38&fontColor=50fa7b&animation=fadeIn" width="100%" />
+</p>
 
-```yaml
-role: Systems Engineer & Linux Automation Developer
-focus: Linux Infrastructure, Daemon Orchestration, Headless Automation & Web Dashboards
-status: Building reliable, zero-dependency tools for Linux servers
-```
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Samba-1E3050?style=flat-square&logo=samba&logoColor=white" alt="Samba" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=50FA7B&background=0D111700&center=true&vCenter=true&width=620&lines=%24+whoami%3A+Systems+Engineer+%26+Linux+Developer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Featured Open Source Projects
+### 🖥️ `$ sysinfo --stdout`
 
-#### 🖥️ Server Management & Dashboards
-- 🌟 **[linux-command-center](https://github.com/lZXGl/linux-command-center)** — Unified Linux server management dashboard with real-time hardware telemetry, UFW firewall control, Docker container monitor, and automated backups.
-- 🛡️ **[server-health-monitor](https://github.com/lZXGl/server-health-monitor)** — Autonomous Linux server health monitoring daemon with automatic service recovery sweeps and resource threshold alerts.
-- 🐳 **[docker-janitor](https://github.com/lZXGl/docker-janitor)** — Automated Docker maintenance daemon to safely prune dangling containers, untagged images, orphan volumes, and build cache.
-- 💾 **[automated-system-backup](https://github.com/lZXGl/automated-system-backup)** — Zero-dependency automated daily backup utility featuring Gzip compression, SHA256 integrity verification, and configurable retention rotation.
-- 🔌 **[usb-network-share-setup](https://github.com/lZXGl/usb-network-share-setup)** — Plug-and-play USB storage automount and Samba network file sharing auto-configuration script for Linux servers.
-
-#### ⚙️ Automation & Desktop Orchestration
-- 🖥️ **[desktop-gui-automator](https://github.com/lZXGl/desktop-gui-automator)** — Lightweight desktop GUI automation and window orchestration toolkit with hotkey triggers for Linux.
-- 🎬 **[video-processing-pipeline](https://github.com/lZXGl/video-processing-pipeline)** — Automated CLI pipeline for video trimming, FFmpeg GPU transcoding, animated captions, and batch post-production rendering.
-- 📱 **[tiktok-auto-uploader](https://github.com/lZXGl/tiktok-auto-uploader)** — Headless automated TikTok video uploader using Playwright with persistent session cookies, auto-tagging, and caption formatting.
-- 💬 **[automated-whatsapp-status](https://github.com/lZXGl/automated-whatsapp-status)** — Automated WhatsApp status updater and media broadcaster with scheduled publishing and prayer time integration.
-- 📢 **[whatsapp-status-broadcaster](https://github.com/lZXGl/whatsapp-status-broadcaster)** — Lightweight Node.js WhatsApp Web client for scheduled status broadcasts, rich media stories, and automated delivery.
-- 🚗 **[traffic-fines-checker](https://github.com/lZXGl/traffic-fines-checker)** — Automated traffic violations scraper and notification daemon with scheduled queries and alerts.
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  user@lZXGl-server:~$ neofetch --stdout                      │
+├──────────────────────────────────────────────────────────────┤
+│  OS:          Ubuntu Linux LTS / Kernel 6.8.0-generic        │
+│  Host:        Custom Homelab & Automation Rig                │
+│  Uptime:      99.9% Production Ready                         │
+│  Shell:       Bash 5.2 / Python 3.12                         │
+│  Focus:       Linux Daemons • System Automation • Monitoring │
+│  Security:    UFW Default-Deny • Zero Secrets In Source      │
+│  Motto:       "Automate the routine. Orchestrate the rest."  │
+╰──────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Core Technology Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lZXGl&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="lZXGl's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lZXGl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=50FA7B" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python_3-000000?style=for-the-badge&logo=python&logoColor=50FA7B" alt="Python" />
+  <img src="https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=50FA7B" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=50FA7B" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=50FA7B" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=50FA7B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=50FA7B" alt="Playwright" />
+  <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=50FA7B" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Samba-000000?style=for-the-badge&logo=samba&logoColor=50FA7B" alt="Samba" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=50FA7B" alt="Git" />
+</p>
+
+---
+
+### 🚀 Production Repositories & Tooling
+
+```text
+📦 lZXGl/
+ ┣ 📁 Server Management & Observability
+ ┃ ┣ 🌟 linux-command-center      ➜ Unified telemetry dashboard, UFW control & container monitor
+ ┃ ┣ 🛡️ server-health-monitor      ➜ Autonomous health sweep daemon with recovery thresholds
+ ┃ ┣ 🐳 docker-janitor            ➜ Automated pruning of dangling containers, images & volumes
+ ┃ ┣ 💾 automated-system-backup   ➜ Zero-dependency snapshot backups with retention rotation
+ ┃ ┗ 🔌 usb-network-share-setup   ➜ Plug-and-play USB automount and Samba LAN sharing
+ ┃
+ ┗ 📁 Headless Automation & Workflow Orchestration
+   ┣ 🖥️ desktop-gui-automator     ➜ Monitor hotplug listener & dynamic headless/GUI switcher
+   ┣ 🎬 video-processing-pipeline ➜ Batch FFmpeg compositor with VAAPI GPU hardware acceleration
+   ┣ 📱 tiktok-auto-uploader      ➜ Headless TikTok video publisher with persistent sessions
+   ┣ 💬 automated-whatsapp-status ➜ Scheduled WhatsApp status updater & media broadcaster
+   ┣ 📢 whatsapp-status-broadcaster ➜ Protocol-level WhatsApp Web broadcast helper
+   ┗ 🚗 traffic-fines-checker     ➜ Automated violations inquiry scraper & alert notifier
+```
+
+| Repository | Focus | Details |
+|:---|:---|:---|
+| [**linux-command-center**](https://github.com/lZXGl/linux-command-center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
+| [**desktop-gui-automator**](https://github.com/lZXGl/desktop-gui-automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
+| [**server-health-monitor**](https://github.com/lZXGl/server-health-monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
+| [**docker-janitor**](https://github.com/lZXGl/docker-janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
+| [**automated-system-backup**](https://github.com/lZXGl/automated-system-backup) | Backup Utility | Gzip/Bzip2 compressed snapshot generator with rolling retention and integrity checks. |
+| [**video-processing-pipeline**](https://github.com/lZXGl/video-processing-pipeline) | Media Pipeline | Batch video overlay compositor with luma-keying and auto GPU VAAPI transcode. |
+| [**tiktok-auto-uploader**](https://github.com/lZXGl/tiktok-auto-uploader) | Browser Automation | Playwright automation with session cookie persistence and auto-captioning. |
+| [**automated-whatsapp-status**](https://github.com/lZXGl/automated-whatsapp-status) | Social Automation | Headless WhatsApp status publisher with scheduled broadcast timing. |
+| [**whatsapp-status-broadcaster**](https://github.com/lZXGl/whatsapp-status-broadcaster) | Messaging Client | Node.js WhatsApp Web client for automated status delivery. |
+| [**usb-network-share-setup**](https://github.com/lZXGl/usb-network-share-setup) | Storage Automation | Udev auto-mounter with automated Samba network share configuration. |
+| [**traffic-fines-checker**](https://github.com/lZXGl/traffic-fines-checker) | Notification Bot | Automated inquiries scraper with scheduled checks and notifications. |
+
+---
+
+### 📊 Activity & Streak Metrics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lZXGl&theme=dark&background=0D1117&border=30363D&stroke=50FA7B&ring=50FA7B&fire=50FA7B&currStreakLabel=50FA7B" alt="lZXGl's Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Engineered for reliability, performance, and automation.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=90&section=footer" width="100%" />
 </p>
