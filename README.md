@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=50FA7B&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami%3A+Zeyad+Ashraf+%7C+Systems+Engineer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=50FA7B&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami%3A+Zeyad+Ashraf+%7C+Systems+Engineer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=0969DA&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami%3A+Zeyad+Ashraf+%7C+Systems+Engineer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=0969DA&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami%3A+Zeyad+Ashraf+%7C+Systems+Engineer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" alt="Typing SVG" />
+  </picture>
 </p>
 
 ---
@@ -80,14 +84,18 @@
 
 ---
 
-### 📊 Activity & Metrics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lZXGl&theme=dark&background=0D1117&border=30363D&stroke=50FA7B&ring=50FA7B&fire=50FA7B&currStreakLabel=50FA7B" alt="lZXGl's Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lZXGl&theme=dark&background=0D1117&border=30363D&stroke=50FA7B&ring=50FA7B&fire=50FA7B&currStreakLabel=50FA7B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lZXGl&theme=default&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+    <img src="https://streak-stats.demolab.com/?user=lZXGl&theme=dark&background=0D1117&border=30363D&stroke=50FA7B&ring=50FA7B&fire=50FA7B&currStreakLabel=50FA7B" alt="lZXGl's Streak Stats" />
+  </picture>
 </p>
 
 ---
