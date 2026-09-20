@@ -80,7 +80,11 @@
 
 ---
 
-### 📊 Activity & Streak Metrics
+### 📊 Activity & Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lZXGl&theme=dark&background=0D1117&border=30363D&stroke=50FA7B&ring=50FA7B&fire=50FA7B&currStreakLabel=50FA7B" alt="lZXGl's Streak Stats" />
