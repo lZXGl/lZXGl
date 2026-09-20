@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=lZXGl@linux-terminal&fontSize=38&fontColor=50fa7b&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Zeyad%20Ashraf@linux-terminal&fontSize=36&fontColor=50fa7b&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=50FA7B&background=0D111700&center=true&vCenter=true&width=620&lines=%24+whoami%3A+Systems+Engineer+%26+Linux+Developer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=50FA7B&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami%3A+Zeyad+Ashraf+%7C+Systems+Engineer;%24+stack%3A+Python+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Flask+%E2%80%A2+Playwright;%24+mission%3A+Zero-dependency+automation+%26+resilient+servers;%24+systemctl+is-active+all-systems%3A+active+(running)" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,8 +12,9 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  user@lZXGl-server:~$ neofetch --stdout                      │
+│  zeyad@linux-terminal:~$ neofetch --stdout                   │
 ├──────────────────────────────────────────────────────────────┤
+│  User:        Zeyad Ashraf                                   │
 │  OS:          Ubuntu Linux LTS / Kernel 6.8.0-generic        │
 │  Host:        Custom Homelab & Automation Rig                │
 │  Uptime:      99.9% Production Ready                         │
