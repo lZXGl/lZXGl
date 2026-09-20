@@ -84,10 +84,14 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Terminal Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/metrics.terminal.svg" alt="Terminal Metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lZXGl/lZXGl/main/metrics.plugin.topics.icons.svg" alt="Technology Topics" width="100%" />
 </p>
 
 <p align="center">
