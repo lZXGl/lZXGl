@@ -60,18 +60,18 @@
 
 | Repository | Focus | Details |
 |:---|:---|:---|
-| [**Loppo**](https://github.com/lZXGl/loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
-| [**Linux Command Center**](https://github.com/lZXGl/linux-command-center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
-| [**Desktop GUI Automator**](https://github.com/lZXGl/desktop-gui-automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
-| [**Server Health Monitor**](https://github.com/lZXGl/server-health-monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
-| [**Docker Janitor**](https://github.com/lZXGl/docker-janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
-| [**Automated System Backup**](https://github.com/lZXGl/automated-system-backup) | Backup Utility | Gzip/Bzip2 compressed snapshot generator with rolling retention and integrity checks. |
-| [**Video Processing Pipeline**](https://github.com/lZXGl/video-processing-pipeline) | Media Pipeline | Batch video overlay compositor with luma-keying and auto GPU VAAPI transcode. |
-| [**TikTok Auto Uploader**](https://github.com/lZXGl/tiktok-auto-uploader) | Browser Automation | Playwright automation with session cookie persistence and auto-captioning. |
-| [**Automated WhatsApp Status**](https://github.com/lZXGl/automated-whatsapp-status) | Social Automation | Headless WhatsApp status publisher with scheduled broadcast timing. |
-| [**WhatsApp Status Broadcaster**](https://github.com/lZXGl/whatsapp-status-broadcaster) | Messaging Client | Node.js WhatsApp Web client for automated status delivery. |
-| [**USB Network Share Setup**](https://github.com/lZXGl/usb-network-share-setup) | Storage Automation | Udev auto-mounter with automated Samba network share configuration. |
-| [**Traffic Fines Checker**](https://github.com/lZXGl/traffic-fines-checker) | Notification Bot | Automated inquiries scraper with scheduled checks and notifications. |
+| [**Loppo**](https://github.com/lZXGl/Loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
+| [**Linux Command Center**](https://github.com/lZXGl/Linux-Command-Center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
+| [**Desktop GUI Automator**](https://github.com/lZXGl/Desktop-GUI-Automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
+| [**Server Health Monitor**](https://github.com/lZXGl/Server-Health-Monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
+| [**Docker Janitor**](https://github.com/lZXGl/Docker-Janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
+| [**Automated System Backup**](https://github.com/lZXGl/Automated-System-Backup) | Backup Utility | Gzip/Bzip2 compressed snapshot generator with rolling retention and integrity checks. |
+| [**Video Processing Pipeline**](https://github.com/lZXGl/Video-Processing-Pipeline) | Media Pipeline | Batch video overlay compositor with luma-keying and auto GPU VAAPI transcode. |
+| [**TikTok Auto Uploader**](https://github.com/lZXGl/TikTok-Auto-Uploader) | Browser Automation | Playwright automation with session cookie persistence and auto-captioning. |
+| [**Automated WhatsApp Status**](https://github.com/lZXGl/Automated-WhatsApp-Status) | Social Automation | Headless WhatsApp status publisher with scheduled broadcast timing. |
+| [**WhatsApp Status Broadcaster**](https://github.com/lZXGl/WhatsApp-Status-Broadcaster) | Messaging Client | Node.js WhatsApp Web client for automated status delivery. |
+| [**USB Network Share Setup**](https://github.com/lZXGl/USB-Network-Share-Setup) | Storage Automation | Udev auto-mounter with automated Samba network share configuration. |
+| [**Traffic Fines Checker**](https://github.com/lZXGl/Traffic-Fines-Checker) | Notification Bot | Automated inquiries scraper with scheduled checks and notifications. |
 
 ---
 
