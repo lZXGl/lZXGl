@@ -45,6 +45,8 @@
  ┃ ┣ 🐳 docker-janitor            ➜ Automated pruning of dangling containers, images & volumes
  ┃ ┣ 💾 automated-system-backup   ➜ Zero-dependency snapshot backups with retention rotation
  ┃ ┗ 🔌 usb-network-share-setup   ➜ Plug-and-play USB automount and Samba LAN sharing
+ ┣ 📁 Full-Stack Web & Social Engineering
+ ┃ ┗ 🌐 loppo                     ➜ Modern social platform (Supabase PostgreSQL RLS, Web Components & Next.js)
  ┃
  ┗ 📁 Headless Automation & Workflow Orchestration
    ┣ 🖥️ desktop-gui-automator     ➜ Monitor hotplug listener & dynamic headless/GUI switcher
@@ -57,6 +59,7 @@
 
 | Repository | Focus | Details |
 |:---|:---|:---|
+| [**loppo**](https://github.com/lZXGl/loppo) | Social Community | Modern discussion platform with decoupled Anti-Koshary architecture, Supabase PostgreSQL RLS, and Next.js support. |
 | [**linux-command-center**](https://github.com/lZXGl/linux-command-center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
 | [**desktop-gui-automator**](https://github.com/lZXGl/desktop-gui-automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
 | [**server-health-monitor**](https://github.com/lZXGl/server-health-monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
