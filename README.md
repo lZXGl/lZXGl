@@ -40,37 +40,38 @@
 ```text
 📦 lZXGl/
  ┣ 📁 Server Management & Observability
- ┃ ┣ 🌟 linux-command-center      ➜ Unified telemetry dashboard, UFW control & container monitor
- ┃ ┣ 🛡️ server-health-monitor      ➜ Autonomous health sweep daemon with recovery thresholds
- ┃ ┣ 🐳 docker-janitor            ➜ Automated pruning of dangling containers, images & volumes
- ┃ ┣ 💾 automated-system-backup   ➜ Zero-dependency snapshot backups with retention rotation
- ┃ ┗ 🔌 usb-network-share-setup   ➜ Plug-and-play USB automount and Samba LAN sharing
+ ┃ ┣ 🌟 Linux Command Center      ➜ Unified telemetry dashboard, UFW control & container monitor
+ ┃ ┣ 🛡️ Server Health Monitor      ➜ Autonomous health sweep daemon with recovery thresholds
+ ┃ ┣ 🐳 Docker Janitor            ➜ Automated pruning of dangling containers, images & volumes
+ ┃ ┣ 💾 Automated System Backup   ➜ Zero-dependency snapshot backups with retention rotation
+ ┃ ┗ 🔌 USB Network Share Setup   ➜ Plug-and-play USB automount and Samba LAN sharing
+ ┃
  ┣ 📁 Full-Stack Web & Social Engineering
- ┃ ┗ 🌐 loppo                     ➜ Modern social platform (Supabase PostgreSQL RLS, Web Components & Next.js)
+ ┃ ┗ 🌐 Loppo                     ➜ Modern social platform (Supabase PostgreSQL RLS, Web Components & Next.js)
  ┃
  ┗ 📁 Headless Automation & Workflow Orchestration
-   ┣ 🖥️ desktop-gui-automator     ➜ Monitor hotplug listener & dynamic headless/GUI switcher
-   ┣ 🎬 video-processing-pipeline ➜ Batch FFmpeg compositor with VAAPI GPU hardware acceleration
-   ┣ 📱 tiktok-auto-uploader      ➜ Headless TikTok video publisher with persistent sessions
-   ┣ 💬 automated-whatsapp-status ➜ Scheduled WhatsApp status updater & media broadcaster
-   ┣ 📢 whatsapp-status-broadcaster ➜ Protocol-level WhatsApp Web broadcast helper
-   ┗ 🚗 traffic-fines-checker     ➜ Automated violations inquiry scraper & alert notifier
+   ┣ 🖥️ Desktop GUI Automator     ➜ Monitor hotplug listener & dynamic headless/GUI switcher
+   ┣ 🎬 Video Processing Pipeline ➜ Batch FFmpeg compositor with VAAPI GPU hardware acceleration
+   ┣ 📱 TikTok Auto Uploader      ➜ Headless TikTok video publisher with persistent sessions
+   ┣ 💬 Automated WhatsApp Status ➜ Scheduled WhatsApp status updater & media broadcaster
+   ┣ 📢 WhatsApp Status Broadcaster ➜ Protocol-level WhatsApp Web broadcast helper
+   ┗ 🚗 Traffic Fines Checker     ➜ Automated violations inquiry scraper & alert notifier
 ```
 
 | Repository | Focus | Details |
 |:---|:---|:---|
-| [**loppo**](https://github.com/lZXGl/loppo) | Social Community | Modern discussion platform with decoupled Anti-Koshary architecture, Supabase PostgreSQL RLS, and Next.js support. |
-| [**linux-command-center**](https://github.com/lZXGl/linux-command-center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
-| [**desktop-gui-automator**](https://github.com/lZXGl/desktop-gui-automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
-| [**server-health-monitor**](https://github.com/lZXGl/server-health-monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
-| [**docker-janitor**](https://github.com/lZXGl/docker-janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
-| [**automated-system-backup**](https://github.com/lZXGl/automated-system-backup) | Backup Utility | Gzip/Bzip2 compressed snapshot generator with rolling retention and integrity checks. |
-| [**video-processing-pipeline**](https://github.com/lZXGl/video-processing-pipeline) | Media Pipeline | Batch video overlay compositor with luma-keying and auto GPU VAAPI transcode. |
-| [**tiktok-auto-uploader**](https://github.com/lZXGl/tiktok-auto-uploader) | Browser Automation | Playwright automation with session cookie persistence and auto-captioning. |
-| [**automated-whatsapp-status**](https://github.com/lZXGl/automated-whatsapp-status) | Social Automation | Headless WhatsApp status publisher with scheduled broadcast timing. |
-| [**whatsapp-status-broadcaster**](https://github.com/lZXGl/whatsapp-status-broadcaster) | Messaging Client | Node.js WhatsApp Web client for automated status delivery. |
-| [**usb-network-share-setup**](https://github.com/lZXGl/usb-network-share-setup) | Storage Automation | Udev auto-mounter with automated Samba network share configuration. |
-| [**traffic-fines-checker**](https://github.com/lZXGl/traffic-fines-checker) | Notification Bot | Automated inquiries scraper with scheduled checks and notifications. |
+| [**Loppo**](https://github.com/lZXGl/loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
+| [**Linux Command Center**](https://github.com/lZXGl/linux-command-center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
+| [**Desktop GUI Automator**](https://github.com/lZXGl/desktop-gui-automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
+| [**Server Health Monitor**](https://github.com/lZXGl/server-health-monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
+| [**Docker Janitor**](https://github.com/lZXGl/docker-janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
+| [**Automated System Backup**](https://github.com/lZXGl/automated-system-backup) | Backup Utility | Gzip/Bzip2 compressed snapshot generator with rolling retention and integrity checks. |
+| [**Video Processing Pipeline**](https://github.com/lZXGl/video-processing-pipeline) | Media Pipeline | Batch video overlay compositor with luma-keying and auto GPU VAAPI transcode. |
+| [**TikTok Auto Uploader**](https://github.com/lZXGl/tiktok-auto-uploader) | Browser Automation | Playwright automation with session cookie persistence and auto-captioning. |
+| [**Automated WhatsApp Status**](https://github.com/lZXGl/automated-whatsapp-status) | Social Automation | Headless WhatsApp status publisher with scheduled broadcast timing. |
+| [**WhatsApp Status Broadcaster**](https://github.com/lZXGl/whatsapp-status-broadcaster) | Messaging Client | Node.js WhatsApp Web client for automated status delivery. |
+| [**USB Network Share Setup**](https://github.com/lZXGl/usb-network-share-setup) | Storage Automation | Udev auto-mounter with automated Samba network share configuration. |
+| [**Traffic Fines Checker**](https://github.com/lZXGl/traffic-fines-checker) | Notification Bot | Automated inquiries scraper with scheduled checks and notifications. |
 
 ---
 
