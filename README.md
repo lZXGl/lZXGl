@@ -40,7 +40,7 @@
 ```text
 📦 lZXGl/
  ┣ 📁 Server Management & Observability
- ┃ ┣ 🌟 Linux Command Center      ➜ Unified telemetry dashboard, UFW control & container monitor
+ ┃ ┣ 🌟 Linux Command Center (v1.1.0) ➜ Spotlight command palette, spring navigation & watchdog
  ┃ ┣ 🛡️ Server Health Monitor      ➜ Autonomous health sweep daemon with recovery thresholds
  ┃ ┣ 🐳 Docker Janitor            ➜ Automated pruning of dangling containers, images & volumes
  ┃ ┣ 💾 Automated System Backup   ➜ Zero-dependency snapshot backups with retention rotation
@@ -61,7 +61,7 @@
 | Repository | Focus | Details |
 |:---|:---|:---|
 | [**Loppo**](https://github.com/lZXGl/Loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
-| [**Linux Command Center**](https://github.com/lZXGl/Linux-Command-Center) | Server Dashboard | Real-time CPU/RAM/Disk stats, UFW firewall audit, Docker manager, and incident recovery. |
+| [**Linux Command Center**](https://github.com/lZXGl/Linux-Command-Center) | Server Dashboard | **v1.1.0** Spotlight command palette (`Ctrl+K`), spring tab physics, synthesized sound FX, live telemetry, and container auto-healing watchdog. |
 | [**Desktop GUI Automator**](https://github.com/lZXGl/Desktop-GUI-Automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
 | [**Server Health Monitor**](https://github.com/lZXGl/Server-Health-Monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
 | [**Docker Janitor**](https://github.com/lZXGl/Docker-Janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
