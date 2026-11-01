@@ -23,6 +23,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=50FA7B" alt="Linux" />
   <img src="https://img.shields.io/badge/Python_3-000000?style=for-the-badge&logo=python&logoColor=50FA7B" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=50FA7B" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_WPF-000000?style=for-the-badge&logo=dotnet&logoColor=50FA7B" alt=".NET WPF" />
   <img src="https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=50FA7B" alt="Bash" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=50FA7B" alt="Docker" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=50FA7B" alt="Flask" />
@@ -39,6 +41,9 @@
 
 ```text
 📦 lZXGl/
+ ┣ 📁 Hardware & Native Desktop Engineering
+ ┃ ┗ 🎧 EksaCompanion (v1.2.0)    ➜ Native C# WPF tray companion with direct hardware DSP EQ & calibrated battery
+ ┃
  ┣ 📁 Server Management & Observability
  ┃ ┣ 🌟 Homelab-Command-Center (v1.1.0) ➜ Spotlight command palette, spring navigation & watchdog
  ┃ ┣ 🛡️ Server Health Monitor      ➜ Autonomous health sweep daemon with recovery thresholds
@@ -60,6 +65,7 @@
 
 | Repository | Focus | Details |
 |:---|:---|:---|
+| [**EksaCompanion**](https://github.com/lZXGl/EksaCompanion) | Native Windows / Hardware DSP | **v1.2.0** Native C# WPF system-tray companion for EKSA E910 5.8GHz headset with true 10-band biquad hardware DSP EQ, WASAPI active battery tracking, and Windows 11 Fluent tray icon. |
 | [**Loppo**](https://github.com/lZXGl/Loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
 | [**Homelab-Command-Center**](https://github.com/lZXGl/Homelab-Command-Center) | Server Dashboard | **v1.1.0** Spotlight command palette (`Ctrl+K`), spring tab physics, synthesized sound FX, live telemetry, and container auto-healing watchdog. |
 | [**Desktop GUI Automator**](https://github.com/lZXGl/Desktop-GUI-Automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
