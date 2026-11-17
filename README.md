@@ -45,14 +45,16 @@
  ┃ ┗ 🎧 EksaCompanion (v1.2.0)    ➜ Native C# WPF tray companion with direct hardware DSP EQ & calibrated battery
  ┃
  ┣ 📁 Server Management & Observability
- ┃ ┣ 🌟 Homelab-Command-Center (v1.1.0) ➜ Spotlight command palette, spring navigation & watchdog
+ ┃ ┣ 🌟 Homelab-Command-Center (v1.2.0) ➜ 4 color themes, live CPU/RAM task inspector & watchdog
  ┃ ┣ 🛡️ Server Health Monitor      ➜ Autonomous health sweep daemon with recovery thresholds
  ┃ ┣ 🐳 Docker Janitor            ➜ Automated pruning of dangling containers, images & volumes
  ┃ ┣ 💾 Automated System Backup   ➜ Zero-dependency snapshot backups with retention rotation
  ┃ ┗ 🔌 USB Network Share Setup   ➜ Plug-and-play USB automount and Samba LAN sharing
  ┃
- ┣ 📁 Full-Stack Web & Social Engineering
- ┃ ┗ 🌐 Loppo                     ➜ Modern social platform (Supabase PostgreSQL RLS, Web Components & Next.js)
+ ┣ 📁 Full-Stack Web, Data & Social Engineering
+ ┃ ┣ 🌐 Loppo                     ➜ Modern social platform (Supabase PostgreSQL RLS, Web Components & Next.js)
+ ┃ ┣ 🛰️ TrendScope                ➜ NASA Space Apps Earth System Trend Detective (Nile Delta NDVI)
+ ┃ ┗ 🎧 Lofi Workspace            ➜ Cozy Next.js + Web Audio API focus & ambient sound workspace
  ┃
  ┗ 📁 Headless Automation & Workflow Orchestration
    ┣ 🖥️ Desktop GUI Automator     ➜ Monitor hotplug listener & dynamic headless/GUI switcher
@@ -67,7 +69,9 @@
 |:---|:---|:---|
 | [**EksaCompanion**](https://github.com/lZXGl/EksaCompanion) | Native Windows / Hardware DSP | **v1.2.0** Native C# WPF system-tray companion for EKSA E910 5.8GHz headset with true 10-band biquad hardware DSP EQ, WASAPI active battery tracking, and Windows 11 Fluent tray icon. |
 | [**Loppo**](https://github.com/lZXGl/Loppo) | Social Community | Modern discussion platform with decoupled modular architecture, Supabase PostgreSQL RLS, and Next.js support. |
-| [**Homelab-Command-Center**](https://github.com/lZXGl/Homelab-Command-Center) | Server Dashboard | **v1.1.0** Spotlight command palette (`Ctrl+K`), spring tab physics, synthesized sound FX, live telemetry, and container auto-healing watchdog. |
+| [**Homelab-Command-Center**](https://github.com/lZXGl/Homelab-Command-Center) | Server Dashboard | **v1.2.0** 4 color-only themes (Default, Crimson, Violet, Graphite), live 2s CPU/RAM task inspector, combined GPU/Disks telemetry, execution Log/Screenshot viewer, and container watchdog. |
+| [**TrendScope**](https://github.com/lZXGl/trendscope) | Earth Observation / AI | NASA Space Apps Challenge monorepo investigating long-term vegetation changes (`MOD13A3` Monthly NDVI) in Egypt's Nile Delta. |
+| [**Lofi Workspace**](https://github.com/aliashrafz1/lofi-workspace) | Web App / Audio | Cozy Next.js + Tailwind + Web Audio API virtual study workspace with layered ambient sounds, music stations, to-do list, and focus timer. |
 | [**Desktop GUI Automator**](https://github.com/lZXGl/Desktop-GUI-Automator) | Display Daemon | Listens to kernel uevents & toggles between headless CLI and desktop GUI on display hotplug. |
 | [**Server Health Monitor**](https://github.com/lZXGl/Server-Health-Monitor) | Health Daemon | Zero-dependency resource watcher (`/proc`, `/sys`) with standard exit codes (0/1/2). |
 | [**Docker Janitor**](https://github.com/lZXGl/Docker-Janitor) | DevOps Maintenance | Safely reclaims storage by pruning dangling images, orphaned volumes, and build cache. |
